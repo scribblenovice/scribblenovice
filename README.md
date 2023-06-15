@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scribblenovice
 - 👀 I’m interested in frondend webdevelopment
-- 🌱 I’m currently learning html, css and javascript
+- 🌱 My tech stach consists of html, css, tailwindcss and javascript
 - 
 - 📫 you can reach me via pasomba41@gmail.com
 <!---
